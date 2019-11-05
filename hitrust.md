@@ -1,9 +1,36 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>hitrust</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#ai-avatar長榮航空提案">AI Avatar長榮航空提案</a>
+<ul>
+<li><a href="#航空業角色品牌形象">001. 航空業角色品牌形象</a></li>
+<li><a href="#目前文字ai-chatbot困境">002. 目前文字AI Chatbot困境</a></li>
+<li><a href="#跳脫文字chatbot框架">003. 跳脫文字Chatbot框架</a></li>
+<li><a href="#如何做到-ai-avatar-技術？">004. 如何做到 AI Avatar 技術？</a></li>
+<li><a href="#互動情境？">005. 互動情境？</a></li>
+<li><a href="#未來如何做到ai不需要真人？">006. 未來如何做到AI不需要真人？</a></li>
+<li><a href="#ai-avatar-推薦行銷">007. AI Avatar 推薦行銷</a></li>
+</ul>
+</li>
+</ul>
 
-<h1 id="ai-avatar長榮航空提案">AI Avatar長榮航空提案</h1>
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="ai-avatar長榮航空提案">AI Avatar長榮航空提案</h1>
 <h2 id="航空業角色品牌形象">001. 航空業角色品牌形象</h2>
 <p>航空業的品牌形象，是影響旅客選擇很重要的關鍵因素。以泊寰的家庭為例子，我們就會特別選擇有Hello Kitty的長榮航空專機來搭乘，並且我們七歲女兒邱兔兔非常開心可以搭到這樣可愛的班機去日本東京遊玩。</p>
 <h2 id="目前文字ai-chatbot困境">002. 目前文字AI Chatbot困境</h2>
@@ -44,3 +71,8 @@
 <p><a href="https://sketchfab.com/3d-models/hong-kong-disneyland-castle-renovation-f08d1d4630b04c80994d4f5d08f655dd"><img src="https://shorturl.at/dfwQY" alt="IMAGE ALT TEXT HERE"></a><br>
 <a href="https://sketchfab.com/3d-models/hong-kong-disneyland-castle-renovation-f08d1d4630b04c80994d4f5d08f655dd">圖: 讓AI Avatar在APP裡面凌空拿起迪士尼模型3D推薦</a></p>
 
+    </div>
+  </div>
+</body>
+
+</html>
