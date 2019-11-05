@@ -1,9 +1,54 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>hitrust</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#ai-avatar長榮航空提案">AI Avatar長榮航空提案</a>
+<ul>
+<li><a href="#航空業角色品牌形象的重要性">001. 航空業角色品牌形象的重要性</a></li>
+<li><a href="#目前文字ai-chatbot的困境">002. 目前文字AI Chatbot的困境</a></li>
+<li><a href="#section">003.</a></li>
+<li></li>
+<li><a href="#cameo-avatar-導入長榮app">001 Cameo Avatar 導入長榮APP</a></li>
+</ul>
+</li>
+<li><a href="#welcome-to-stackedit">Welcome to StackEdit!</a>
+<ul>
+<li><a href="#documents">Documents</a>
+<ul>
+<li></li>
+</ul>
+</li>
+<li><a href="#synchronization">Synchronization</a>
+<ul>
+<li></li>
+</ul>
+</li>
+<li><a href="#publication">Publication</a>
+<ul>
+<li></li>
+</ul>
+</li>
+<li><a href="#markdown-extra">Markdown Extra</a></li>
+</ul>
+</li>
+</ul>
 
-<h1 id="ai-avatar長榮航空提案">AI Avatar長榮航空提案</h1>
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="ai-avatar長榮航空提案">AI Avatar長榮航空提案</h1>
 <h2 id="航空業角色品牌形象的重要性">001. 航空業角色品牌形象的重要性</h2>
 <p>航空業的品牌形象，是影響旅客選擇很重要的關鍵因素。以泊寰的家庭為例子，我們就會特別選擇有Hello Kitty的長榮航空專機來搭乘，並且我們七歲女兒邱兔兔非常開心可以搭到這樣可愛的班機去日本東京遊玩。</p>
 <h2 id="目前文字ai-chatbot的困境">002. 目前文字AI Chatbot的困境</h2>
@@ -301,3 +346,8 @@ st<span class="token operator">-</span><span class="token operator">&gt;</span>o
 </ol>
 </section>
 
+    </div>
+  </div>
+</body>
+
+</html>
