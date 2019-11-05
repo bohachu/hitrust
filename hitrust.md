@@ -40,7 +40,7 @@
 <img src="https://lh3.googleusercontent.com/x8b3V3oq33XcD9LE8mUwsu5SXwgz87X5KM8tfdQmwrdeSXdofgIz7Zv-QmFGzz_MNrdo8joc1SB4vg" alt="enter image description here"><br>
 圖: 長榮航空原本就有豐富的授權角色可以運用在AI Avatar</p>
 <h2 id="如何做到-ai-avatar-技術？">004. 如何做到 AI Avatar 技術？</h2>
-<p><a href="https://www.youtube.com/watch?v=cbWNP9yRfNk"><img src="https://shorturl.at/sIV47" alt="IMAGE ALT TEXT HERE"></a><br>
+<p><a href="https://www.youtube.com/watch?v=cbWNP9yRfNk"><img src="https://shorturl.at/sIV47" alt="臉部捕捉與動作捕捉"></a><br>
 影片: 運用動作捕捉及臉部表情捕捉呈現虛擬3D人物</p>
 <ul>
 <li>AI肢體動作捕捉技術</li>
